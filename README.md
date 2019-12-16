@@ -9,7 +9,7 @@ An android application that allows users to search for cities to see weather sum
 <img src="https://github.com/shakshi/WeatherApp/blob/master/screenshots/2.jpg" height="240px" width="auto"> <img src="https://github.com/shakshi/WeatherApp/blob/master/screenshots/3.jpg" height="240px" width="auto"> 
 
 ## Detailed Weather
-<img src="https://github.com/shakshi/WeatherApp/blob/master/screenshots/6.jpg" height="240px" width="auto">
+<img src="https://github.com/shakshi/WeatherApp/blob/master/screenshots/6.jpg" height="240px" width="auto"> <img src="https://github.com/shakshi/WeatherApp/blob/master/screenshots/9.jpg" height="240px" width="auto"> <img src="https://github.com/shakshi/WeatherApp/blob/master/screenshots/10.jpg" height="240px" width="auto">
 
 ## Favorites 
 <img src="https://github.com/shakshi/WeatherApp/blob/master/screenshots/4.jpg" height="240px" width="auto"> <img src="https://github.com/shakshi/WeatherApp/blob/master/screenshots/5.jpg" height="240px" width="auto"> 
