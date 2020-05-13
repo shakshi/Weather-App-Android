@@ -2,6 +2,10 @@
 
 An android application that allows users to search for cities to see weather summary, look at detailed information about them, pin those cities to favourites and post on Twitter about the weather.
 
+## Demo
+<img src="https://github.com/shakshi/WeatherApp/blob/master/screenshots/weather.gif" height="240px" width="auto">
+
+## Details
 ## Current Location 
 <img src="https://github.com/shakshi/WeatherApp/blob/master/screenshots/1.jpg" height="240px" width="auto">
 
